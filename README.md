@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Paulo Junior</h1>
 <h3 align="center">.NET Developer | C#</h3>
 
-I've been working as software developer for over five years, with expertise in backend development, working with the Microsoft technology, such as C# and .NET, always striving for code that follow good software practices and principles. Also, I have some knowledge in frontend technology, such as ASP.NET MVC and Angular.
+I've been working as software developer for over five years, with expertise in backend development, working with the Microsoft technology, such as C# and .NET, always striving for code that follow good software practices and principles. Also, I have some knowledge of frontend technology, such as ASP.NET MVC and Angular.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
